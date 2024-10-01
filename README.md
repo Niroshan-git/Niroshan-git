@@ -1,4 +1,6 @@
-# Hi, I'm Niroshan Lakmal Wickramasooriya 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Niroshan-git.Niroshan-git" />
+
+## Hi, I'm Niroshan Lakmal Wickramasooriya 👋
 ### 🚀 **Aspiring Business Intelligence Analyst | Data Enthusiast | SAP B1 Expert**
 
 I'm a seasoned professional with over **8+ years of experience** in **SAP Business One, SQL, HANA, and Financial Reporting**. My expertise spans **Project Management, Data Analysis,** and **Business Process Optimization**. With an extensive background across various industries, I excel in providing **high-impact solutions** to improve efficiency and profitability.
