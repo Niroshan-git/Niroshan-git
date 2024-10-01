@@ -1,6 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Niroshan-git.Niroshan-git" />
 
-## Hi, I'm Niroshan Lakmal Wickramasooriya 👋
+<h1 align="centre" >
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=134155&width=1000&lines=Hi!+There+%F0%9F%91%8B;I'm+Niroshan+Lakmal+Wickramasooriya!;Aspiring+Business+Intelligence+Analyst+%F0%9F%93%8A;Data+Enthusiast;SAP+B1+Expert" alt="Typing SVG" /></a>
+</h1>
+
 ### 🚀 **Aspiring Business Intelligence Analyst | Data Enthusiast | SAP B1 Expert**
 
 I'm a seasoned professional with over **8+ years of experience** in **SAP Business One, SQL, HANA, and Financial Reporting**. My expertise spans **Project Management, Data Analysis,** and **Business Process Optimization**. With an extensive background across various industries, I excel in providing **high-impact solutions** to improve efficiency and profitability.
