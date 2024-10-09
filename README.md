@@ -1,8 +1,7 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Niroshan-git.Niroshan-git" />
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00BFFF&width=1000&lines=Hi!+There+%F0%9F%91%8B;I'm+Niroshan+Lakmal+Wickramasooriya!;Aspiring+Business+Intelligence+Analyst+%F0%9F%93%8A;Data+Enthusiast;SAP+B1+Expert" alt="Typing SVG" />
+</a>
 
-<h1 align="centre" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=134155&width=1000&lines=Hi!+There+%F0%9F%91%8B;I'm+Niroshan+Lakmal+Wickramasooriya!;Aspiring+Business+Intelligence+Analyst+%F0%9F%93%8A;Data+Enthusiast;SAP+B1+Expert" alt="Typing SVG" /></a>
-</h1>
 
 ### 🚀 **Aspiring Business Intelligence Analyst | Data Enthusiast | SAP B1 Expert**
 
