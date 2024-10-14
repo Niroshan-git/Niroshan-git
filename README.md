@@ -12,7 +12,7 @@ I'm a seasoned professional with over **8+ years of experience** in **SAP Busine
 - 🎯 **My goal** is to become a **Business Intelligence Analyst by the end of 2024**.
 - 🔍 I'm exploring cutting-edge techniques in **data science** and **business intelligence**, working towards delivering **actionable insights** through **data-driven solutions**.
 - 🛠️ **Experience**:
-  - **8+ years** in **Excel** & **PowerPoint** 
+  - **8+ years** in **Excel** , **PowerPoint** & **Quick Books**  
   - **3 years** in **SQL** & **SAP B1**
   - **1 year** in **Python**
 
@@ -25,6 +25,7 @@ I'm a seasoned professional with over **8+ years of experience** in **SAP Busine
 
 ### **Data Tools:**
 - **Excel**, **Power Query**, **Power BI**, **Tableau** ,**Pandas**, **NumPy**, **Matplotlib**
+- **SAGE-50**, **Quick Book**
 
 ### **Web Frameworks:**
 - **Flask**, **Streamlit**
